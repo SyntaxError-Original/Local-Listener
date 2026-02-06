@@ -22,12 +22,12 @@ Hope you enjoy it.
 Remember I am not a programmer just s guy that loves to tinker
 
 
-Added the Client for Raspi - 
+Added the Client for Raspi - Client.py.
         Just run this on the RPI, 
         Ensure it is on the same local network
         Edit the script to point to the ip of the Server 
 
- Added a windows Client version, similar to the Linux version, 
+ Added a windows Client version, Remote.pyw, similar to the Linux version, 
          this has several things that can be modified and played with
          like if you compile with PyInstaller then you can uncomment 
          line 73   #ftrun()
@@ -35,5 +35,6 @@ Added the Client for Raspi -
 
          Enjoy
          
+
 
 
