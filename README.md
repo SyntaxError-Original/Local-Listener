@@ -25,4 +25,8 @@ hope you enjoy it.
 Remember I am not a programmer just s guy that loves to tinker
 
 
-Added the Client
+Added the Client - 
+        Just run this on the RPI, 
+        Ensure it is on the same local network
+        Edit the script to point to the ip of the Server 
+
