@@ -1,7 +1,6 @@
 Server/Client
 
 
-
 The main aim of this script was to remotely control several of my Raspberry Pi's,One per CLI.
 
 It will run on Windows/Linux ( only tried with Debian based distros) with Python installed. 
@@ -14,12 +13,10 @@ You can also compiled into a stand alone exe with  PyInstller.
 
 Read the docs it is not hard  you will need the -F switch 
 
-If you cant work out how to use PyInstaller then maybe you should not be 
+If you cant work out how to use PyInstaller then maybe you should not be using this script.
 
-using this script
 
-&nbsp;
-hope you enjoy it.
+Hope you enjoy it.
 
 
 Remember I am not a programmer just s guy that loves to tinker
@@ -29,4 +26,5 @@ Added the Client -
         Just run this on the RPI, 
         Ensure it is on the same local network
         Edit the script to point to the ip of the Server 
+
 
