@@ -22,9 +22,15 @@ Hope you enjoy it.
 Remember I am not a programmer just s guy that loves to tinker
 
 
-Added the Client - 
+Added the Client for Raspi - 
         Just run this on the RPI, 
         Ensure it is on the same local network
         Edit the script to point to the ip of the Server 
 
+ Added a windows Client version, similar to the Linux version, 
+         this has several things that can be modified and played with
+         like if you compile with PyInstaller then you van uncomment 
+         line 73   #ftrun()
+         and play with the encoding ( I used Endec to encode )
+         
 
