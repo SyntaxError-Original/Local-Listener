@@ -29,8 +29,11 @@ Added the Client for Raspi -
 
  Added a windows Client version, similar to the Linux version, 
          this has several things that can be modified and played with
-         like if you compile with PyInstaller then you van uncomment 
+         like if you compile with PyInstaller then you can uncomment 
          line 73   #ftrun()
          and play with the encoding ( I used Endec to encode )
+
+         Enjoy
          
+
 
