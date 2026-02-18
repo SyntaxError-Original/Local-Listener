@@ -14,12 +14,22 @@ You can also compiled into a stand alone exe with  PyInstller.
 Read the docs it is not hard  you will need the -F switch 
 
 If you cant work out how to use PyInstaller then maybe you should not be using this script.
+CLI usage:
+remote machine
+Linux RPi 
+        python remote.pyw <IPaddress of the server> <Port used>
+windows RPI:
+        Python client.pyw <IPaddress of the server> <Port used>
+
+Locat machine:
+      local.py <Port used>
+
 
 
 Hope you enjoy it.
 
 
-Remember I am not a programmer just s guy that loves to tinker
+Remember I am not a programmer just a guy that loves to tinker
 
 
 Added the Client for Raspi - Client.py.
@@ -35,6 +45,7 @@ Added the Client for Raspi - Client.py.
 
          Enjoy
          
+
 
 
 
